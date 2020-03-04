@@ -9,4 +9,4 @@ created was 'category', 'movie', 'name', 'winner', and 'year'. After writing the
 information throughout the past decade, where the data was then put into a data frame using pandas. Finally, the 1213 rows x 5 column 
 data frame was exported into Excel for further analysis.
 
-Tableau Analysis of excel output <a href="https://public.tableau.com/views/OscarNominationsWinsStory/Oscars?:display_count=y&publish=yes&:origin=viz_share_link">here </a>
+Tableau Analysis of Excel output <a href="https://public.tableau.com/views/OscarNominationsWinsStory/Oscars?:display_count=y&publish=yes&:origin=viz_share_link">here </a>.
